@@ -6,7 +6,7 @@ def display_instructions():
     try:
         validate_input(int(instruction))
     except ValueError:
-        print("not number")
+        print("not number_test")
         display_instructions()
     if int(instruction) ==1:
         try:
