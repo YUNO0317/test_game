@@ -1,0 +1,4 @@
+The goal of the game: Knock out all the prize cards of the opponent or make him run out of the deck.
+Decks: Players have their own decks of cards. Each deck must contain at least 60 cards.
+Prize Cards: Prize cards are drawn from the deck when the player's Pokémon are knocked out.
+English translations
